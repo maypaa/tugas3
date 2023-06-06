@@ -1,0 +1,20 @@
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(223, 184, 232);
+    
+}
+
+.Box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+img {
+    margin-top: 20px;
+    height: 200px;
+    width: 200px;
+}
